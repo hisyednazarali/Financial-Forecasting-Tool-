@@ -2,5 +2,5 @@ streamlit==1.28.0
 tensorflow==2.12.0
 pandas==1.5.3
 numpy==1.23.5
-setuptools
-sklearn
+scikit-learn==1.5.2
+setuptools==80.9.0
