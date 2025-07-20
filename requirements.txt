@@ -1,11 +1,11 @@
---extra-index-url https://pypi.anaconda.org/conda-forge/simple
-
-streamlit==1.33.0
+# Core app dependencies
+streamlit==1.28.0
 pandas==1.5.3
 numpy==1.23.5
 matplotlib==3.7.1
 plotly==5.15.0
-tensorflow==2.12.0
 scikit-learn==1.2.2
+tensorflow==2.12.0
+
+# Prophet for time series forecasting
 prophet==1.1.5
-plotly
