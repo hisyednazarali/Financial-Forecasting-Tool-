@@ -6,3 +6,4 @@ scikit-learn==1.5.2
 setuptools==80.9.0
 matplotlib
 prophet
+scikit_learn
